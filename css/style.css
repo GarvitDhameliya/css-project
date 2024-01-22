@@ -1,0 +1,139 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --dark-green: #083314;
+  --light-green: #0c7735;
+  --dark-light-green: #164423;
+  --light-white: #fefefe;
+  --light-color: #ffffff;
+  --dark-color: #000000;
+  --green-gray: #688771;
+  --dark-shade: #12110e;
+  --yellow: #fdd61f;
+  --bg-color: #010e06;
+  --text-gray: #9e9e9e;
+  --green-shade: #1b3826;
+  --green-color: #18271e;
+  --gray-shade: #848484;
+  --border-color: #bbbab9;
+}
+
+body {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+ul,
+ol {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--light-color);
+}
+small {
+  color: var(--green-gray);
+}
+
+.topbar {
+  max-width: 1811px;
+  background-color: var(--dark-green);
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.topbar_one_inner {
+  padding-top: 26px;
+  padding-bottom: 29px;
+  border: 0;
+  display: flex;
+  align-items: center;
+}
+
+.topbar_one_social {
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  gap: 0 22px;
+  padding: 0 17px;
+  line-height: 1em;
+}
+
+.topbar_one_social a {
+  width: inherit;
+  padding: 18px 0;
+}
+
+.topbar_one_info {
+  display: flex;
+  align-items: center;
+}
+
+.topbar_one_info_item {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2em;
+  padding: 0 38px;
+}
+
+.topbar_one_support-text {
+  display: block;
+}
+
+.topbar_one_info-icon {
+  background-color: var(--light-green);
+  color: var(--light-color);
+  width: 45px;
+  height: 50px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  margin-right: 16px;
+}
+
+.topbar_one_right {
+  padding: 12px 18px 12px 20px;
+  margin-top: 0;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+.btn {
+  display: inline-block;
+  vertical-align: middle;
+
+  border: none;
+  outline: none !important;
+  background-color: var(--light-green);
+  text-align: center;
+  padding: 8.2px 18px;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  font: normal 500 14px/1 "Inter";
+}
+.topbar_one_btn {
+  margin-left: 0;
+  min-width: 101px;
+}
+
+.btn span {
+  position: relative;
+  color: inherit;
+  z-index: 2;
+}

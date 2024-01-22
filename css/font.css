@@ -1,0 +1,269 @@
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-ExtraBold.woff2") format("woff2"),
+    url("../font/Inter-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-ExtraLight.woff2") format("woff2"),
+    url("../font/Inter-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-Medium.woff2") format("woff2"),
+    url("../font/Inter-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-Light.woff2") format("woff2"),
+    url("../font/Inter-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-Bold.woff2") format("woff2"),
+    url("../font/Inter-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-Black.woff2") format("woff2"),
+    url("../font/Inter-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-Regular.woff2") format("woff2"),
+    url("../font/Inter-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-SemiBold.woff2") format("woff2"),
+    url("../font/Inter-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-Thin.woff2") format("woff2"),
+    url("../font/Inter-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-Black.woff2") format("woff2"),
+    url("../font/KumbhSans-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-Bold.woff2") format("woff2"),
+    url("../font/KumbhSans-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-ExtraBold.woff2") format("woff2"),
+    url("../font/KumbhSans-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-ExtraLight.woff2") format("woff2"),
+    url("../font/KumbhSans-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-Medium.woff2") format("woff2"),
+    url("../font/KumbhSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-Regular.woff2") format("woff2"),
+    url("../font/KumbhSans-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-Light.woff2") format("woff2"),
+    url("../font/KumbhSans-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-Thin.woff2") format("woff2"),
+    url("../font/KumbhSans-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("../font/KumbhSans-SemiBold.woff2") format("woff2"),
+    url("../font/KumbhSans-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-BoldItalic.woff2") format("woff2"),
+    url("../font/Mali-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-ExtraLight.woff2") format("woff2"),
+    url("../font/Mali-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-Bold.woff2") format("woff2"),
+    url("../font/Mali-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-ExtraLightItalic.woff2") format("woff2"),
+    url("../font/Mali-ExtraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-LightItalic.woff2") format("woff2"),
+    url("../font/Mali-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-Italic.woff2") format("woff2"),
+    url("../font/Mali-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-MediumItalic.woff2") format("woff2"),
+    url("../font/Mali-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-Light.woff2") format("woff2"),
+    url("../font/Mali-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-Medium.woff2") format("woff2"),
+    url("../font/Mali-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-SemiBoldItalic.woff2") format("woff2"),
+    url("../font/Mali-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-SemiBold.woff2") format("woff2"),
+    url("../font/Mali-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mali";
+  src: url("../font/Mali-Regular.woff2") format("woff2"),
+    url("../font/Mali-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
